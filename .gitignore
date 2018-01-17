@@ -1,0 +1,6 @@
+node_modules/
+.idea/fd-cloud-webapp.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+dist/
