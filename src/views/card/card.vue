@@ -1,7 +1,6 @@
 <!-- by your name -->
 <template>
   <div>
-   
     <div class="p2">
       <div>单个卡片使用方式</div>
       <fd-card :option='option'>
