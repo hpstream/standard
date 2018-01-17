@@ -16,4 +16,5 @@ const getters = {
   globals: state => state.globals,
   permissionMenu: state => state.user.permissionMenu
 }
+
 export default getters
