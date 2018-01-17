@@ -1,18 +1,14 @@
 {
-  "name": "standard",
+  "name": "fd-cloud-webapp",
   "version": "1.0.0",
   "license": "MIT",
-  "description": "standard",
-  "author": "",
+  "description": "fd-cloud-webapp",
+  "author": "pengyong.ni@future-data.cn",
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
     "build": "node build/build.js",
     "lint": "eslint --ext .js,.vue src"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/hpstream/standard.git"
   },
   "dependencies": {
     "axios": "0.17.1",
